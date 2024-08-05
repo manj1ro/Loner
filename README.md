@@ -17,6 +17,7 @@ To get started with Loner, follow these steps:
 3.**UPDATE BOT TOKEN & INVITE URL** 
 
   Put the bot token & invite url in .env, by 
+  
   replacing `EXAMPLE` in DISCORD_TOKEN &
   
   replacing `EXAMPLE` in INVITE_URL.
