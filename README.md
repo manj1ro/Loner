@@ -28,10 +28,4 @@ To get started with Loner, follow these steps:
    
      ```sh
      C:\Users\EXAMPLE\Desktop\Loner\start.bat
-
-
-
-
-   
-
   
