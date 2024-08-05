@@ -14,10 +14,19 @@ To get started with Loner, follow these steps:
 
    Extract the downloaded archive to your desired location on your computer.
 
-3. **Run the Bot**
+3.**UPDATE BOT TOKEN & INVITE URL** 
+
+  Put the bot token & invite url in .env, by 
+  replacing `EXAMPLE` in DISCORD_TOKEN &
+  replacing `EXAMPLE` in INVITE_URL.
+  
+4. **Run the Bot**
 
    After extracting, run start.bot, or open command prompt and run the following command, replacing `EXAMPLE` with your actual username:
    
    ```sh
    C:\Users\EXAMPLE\Desktop\Loner\start.bat
 
+  
+
+  
