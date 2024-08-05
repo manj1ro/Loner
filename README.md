@@ -1,6 +1,6 @@
 # Loner Bot
 
-Loner is an open-source Discord bot designed to play tracks from YouTube. It comes with a variety of commands.
+Loner is an open-source Discord bot designed to play tracks from YouTube. It comes with a variety of commands. All types of contributions are welcome.
 
 ## Getting Started
 
