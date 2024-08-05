@@ -18,6 +18,7 @@ To get started with Loner, follow these steps:
 
   Put the bot token & invite url in .env, by 
   replacing `EXAMPLE` in DISCORD_TOKEN &
+  
   replacing `EXAMPLE` in INVITE_URL.
   
 4. **Run the Bot**
@@ -26,7 +27,5 @@ To get started with Loner, follow these steps:
    
    ```sh
    C:\Users\EXAMPLE\Desktop\Loner\start.bat
-
-  
 
   
