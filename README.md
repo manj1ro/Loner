@@ -23,10 +23,15 @@ To get started with Loner, follow these steps:
   
 4. **Run the Bot**
 
-   After extracting, run `start.bat`, or open a command prompt and run the following command, replacing `EXAMPLE` with your actual username:
+   - If you are not using windows simply run the main.py file.
+   - Run `start.bat`, or open a command prompt and run the following command, replacing `EXAMPLE` with your actual username:
    
-   ```sh
-   C:\Users\EXAMPLE\Desktop\Loner\start.bat
+     ```sh
+     C:\Users\EXAMPLE\Desktop\Loner\start.bat
 
+
+
+
+   
 
   
