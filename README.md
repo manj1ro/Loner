@@ -8,7 +8,7 @@ To get started with Loner, follow these steps:
 
 1. **Download Loner**
 
-   Download the latest release of Loner from the [GitHub releases page](https://github.com/yourusername/yourrepository/releases).
+   Download the latest release of Loner from the [GitHub releases page](https://github.com/manj1ro/Loner).
 
 2. **Extract the Files**
 
@@ -16,7 +16,7 @@ To get started with Loner, follow these steps:
 
 3. **Run the Bot**
 
-   Open a command prompt and run the following command, replacing `EXAMPLE` with your actual username:
+   After extracting, run start.bot, or open command prompt and run the following command, replacing `EXAMPLE` with your actual username:
    
    ```sh
    C:\Users\EXAMPLE\Desktop\Loner\start.bat
